@@ -1,0 +1,12 @@
+D:\Project\Teach\TeachAnnouncement\ProjectLibrary\bin\Debug\net6.0\ProjectLibrary.deps.json
+D:\Project\Teach\TeachAnnouncement\ProjectLibrary\bin\Debug\net6.0\ProjectLibrary.dll
+D:\Project\Teach\TeachAnnouncement\ProjectLibrary\bin\Debug\net6.0\ProjectLibrary.pdb
+D:\Project\Teach\TeachAnnouncement\ProjectLibrary\obj\Debug\net6.0\ProjectLibrary.csproj.AssemblyReference.cache
+D:\Project\Teach\TeachAnnouncement\ProjectLibrary\obj\Debug\net6.0\ProjectLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Teach\TeachAnnouncement\ProjectLibrary\obj\Debug\net6.0\ProjectLibrary.AssemblyInfoInputs.cache
+D:\Project\Teach\TeachAnnouncement\ProjectLibrary\obj\Debug\net6.0\ProjectLibrary.AssemblyInfo.cs
+D:\Project\Teach\TeachAnnouncement\ProjectLibrary\obj\Debug\net6.0\ProjectLibrary.csproj.CoreCompileInputs.cache
+D:\Project\Teach\TeachAnnouncement\ProjectLibrary\obj\Debug\net6.0\ProjectLibrary.dll
+D:\Project\Teach\TeachAnnouncement\ProjectLibrary\obj\Debug\net6.0\refint\ProjectLibrary.dll
+D:\Project\Teach\TeachAnnouncement\ProjectLibrary\obj\Debug\net6.0\ProjectLibrary.pdb
+D:\Project\Teach\TeachAnnouncement\ProjectLibrary\obj\Debug\net6.0\ref\ProjectLibrary.dll
